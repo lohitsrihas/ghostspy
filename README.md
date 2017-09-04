@@ -1,6 +1,6 @@
 # ghostspy
-## USER DOCUMENT VR 1.0
 gHOSTspy : noun (pl. ghostspies) UK:/g??stspa?/ US:/go?stspa?/ An application made by Spectre to spy on Hosts.
+## USER DOCUMENT VR 1.0
 
 
 	########         ####        ####       ######          ######  ###############     ######   #######       ###        ###
@@ -14,7 +14,7 @@ gHOSTspy : noun (pl. ghostspies) UK:/g??stspa?/ US:/go?stspa?/ An application ma
 	########    ###  ####        ####       ######        #######         ###        #######     ###                ####
 
 
-- Developers : Spectre005 : Robin P. Joseph, J. Rohith Reddy, R. Rajashekar Reddy, K. Lohit Srihas, G. Phani Varanasi 
+- Developers : Spectre005 : K. Lohit Srihas, Robin P. Joseph, J. Rohith Reddy, R. Rajashekar Reddy, G. Phani Varanasi 
 
 
 INDEX :
