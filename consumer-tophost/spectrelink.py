@@ -24,8 +24,6 @@ try:
 	clientn = InfluxDBClient(host, port, USER, PASSWORD, DBNAME)
 	query = "SELECT last(*) from {0}".format(metric)
 	result = clientn.query(query, database=DBNAME)
-#       print(result)
-#       print ("\n\n")
 	cpoint = list(result.get_points(measurement=metric))
 	sess=cpoint[0]['last_value']
 	sess = sess+1
